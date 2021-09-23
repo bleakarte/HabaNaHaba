@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255308640688",
+    "project_id": "habanahaba-b4b83",
+    "storage_bucket": "habanahaba-b4b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255308640688:android:6f1c10d3d4d648cafbe675",
+        "android_client_info": {
+          "package_name": "com.example.anti_skengman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255308640688-tai52ck2h645930nao77jhih5f4m0vs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmc35PbYImuLKhkt0H85qNVf-F3-UUFug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255308640688-tai52ck2h645930nao77jhih5f4m0vs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

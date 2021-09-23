@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">anti-skengman</string>
+    <string name="title">Haba na Haba\nSelf auditor</string>
+    <string name="tag">Powered by SamBody</string>
+    <string name="balance">Balance</string>
+    <string name="amount">0.00</string>
+    <string name="savings">Savings</string>
+    <string name="rent">Rent</string>
+    <string name="bills">Bills</string>
+    <string name="investments">Investment</string>
+    <string name="insurance">Insurance</string>
+    <string name="enjoyment">Enjoyment</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="latest">Latest Transactions</string>
+    <string name="des">pgn</string>
+    <string name="close">Close</string>
+    <string name="target">Balance</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="sign">Sign in</string>
+    <string name="register">Register</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
