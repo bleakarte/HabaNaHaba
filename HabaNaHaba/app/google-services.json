@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635789639702",
+    "project_id": "expensemanager-ac2fb",
+    "storage_bucket": "expensemanager-ac2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635789639702:android:0f0a25f2b921359005b537",
+        "android_client_info": {
+          "package_name": "com.webianks.expensive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635789639702-dvebot7s5joscg1o2cs03rvksjj1uskn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKriXxk5w6dkPqYJJZNO-uzoCbvIKxjys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635789639702-dvebot7s5joscg1o2cs03rvksjj1uskn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

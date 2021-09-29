@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0091EA</color>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorAccent">#7986cb</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="Grey_50">#FAFAFA</color>
+    <color name="Grey_100">#F5F5F5</color>
+    <color name="Grey_200">#EEEEEE</color>
+    <color name="Grey_300">#E0E0E0</color>
+    <color name="Grey_400">#BDBDBD</color>
+    <color name="Grey_500">#9E9E9E</color>
+    <color name="Grey_600">#757575</color>
+    <color name="Grey_700">#616161</color>
+    <color name="Grey_800">#424242</color>
+    <color name="Grey_900">#212121</color>
+    <color name="fab_color">#9fa8da</color>
+
+    <color name="primaryScrim">#E3F2FD</color>
+    <color name="primaryScrimDark">#BBDEFB</color>
+
+    <color name="fab_icon_color">#304ffe</color>
+    <color name="accent_tint">#117986cb</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="gray_dark">#757575</color>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HabaNaHaba</string>
+    <string name="spent_on">Spent Money On</string>
+    <string name="spent_how_much">Amount</string>
+    <string name="spent_on_date">Date</string>
+    <string name="done">Done</string>
+    <string name="no_expenses">What ??\nNo expenses for this month.</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Okay</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="label_this_month">This month</string>
+    <string name="label_all">Summary</string>
+    <string name="label_menu">Profile</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="system_default">System Default</string>
+    <string name="label_add_new">+ Add New Expense</string>
+    <string name="label_theme">Theme</string>
+</resources>
